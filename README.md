@@ -4,10 +4,10 @@ CS Undergrad @ IIIT Dharwad | Full-Stack Developer | Freelance Editor
 ---
 
 ### 💻 Tech I Use:
-- **Languages:** C++, JavaScript, TypeScript
+- **Languages:** C++, JavaScript, TypeScript, C, Java, Python
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, VS Code, Postman, Figma
+- **Backend:** Node.js, Express, MongoDB, Prisma
+- **Tools:** Git, VS Code, Postman, ReactBits
 
 ---
 
