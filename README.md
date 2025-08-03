@@ -21,7 +21,8 @@ CS Undergrad @ IIIT Dharwad | Full-Stack Developer | Freelance Editor
 ---
 
 ### 📫 Connect with me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/siddhaartha-b-s-16802b2b7)  
-- 💻 [Portfolio](https://yourwebsite.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddhaartha-bs-041063364/)  
+- 💻 [Portfolio](https://sidlabs.shop)  
 - 🐙 [GitHub](https://github.com/siddhaartha-bs)  
 - 📷 [Instagram](https://instagram.com/siddhaartha_bs)
+- X [X](https://x.com/sid_likescoding)
