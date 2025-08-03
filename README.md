@@ -26,3 +26,8 @@ CS Undergrad @ IIIT Dharwad | Full-Stack Developer | Freelance Editor
 - 🐙 [GitHub](https://github.com/siddhaartha-bs)  
 - 📷 [Instagram](https://instagram.com/siddhaartha_bs)
 - X [X](https://x.com/sid_likescoding)
+
+![Siddhaartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDHAARTHAA&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHAARTHAA&layout=compact&theme=radical)
+
