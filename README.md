@@ -1,66 +1,17 @@
-# Hi, I’m Siddhaartha 👋
+# Siddhaartha
 
-CS Undergrad @ IIIT Dharwad | Full-Stack Developer | Backend & Cloud
+CS @ IIIT Dharwad
+Full-Stack Engineer — Backend, Cloud, Infrastructure
 
----
+I build and run real systems.
+Clean architecture, scalable backends, production deployments.
 
-### 💻 Tech Stack (Current)
+**Stack**
+C++ · TypeScript · Node.js · React · Next.js · MongoDB · SQL
+AWS · Docker · Cloudflare · CI/CD · Linux
 
-**Languages & Core**
-
-* C++, JavaScript, TypeScript, SQL
-* REST APIs, JWT-based Auth
-
-**Frontend**
-
-* React
-* Next.js
-* Tailwind CSS
-* ShadCN/UI
-
-**Backend & Databases**
-
-* Node.js
-* Express
-* MongoDB
-* Prisma
-* SQL Databases
-* Nginx
-
-**Cloud, DevOps & Infra**
-
-* AWS (EC2, RDS, S3, VPC)
-* Docker
-* GitHub Actions (CI/CD)
-* Cloudflare (Pages, Tunnels, DNS)
-* Linux
-
-**Tools**
-
-* Git & GitHub
-* Postman
-* VS Code
-
----
-
-### 🚀 About Me
-
-I build production-grade systems, not demos.
-I focus on clean architecture, scalable backends, and reliable deployments.
-I care about correctness, performance, and long-term maintainability.
-I’ve shipped full-stack applications used by real users and managed them in production.
-I also work as a professional freelance video editor, delivering consistently under real client constraints.
-
-If you want engineering that works in the real world, let’s connect.
-
----
-
-### 📫 Connect
-
-* 🔗 LinkedIn: [https://www.linkedin.com/in/siddhaartha-bs-041063364/](https://www.linkedin.com/in/siddhaartha-bs-041063364/)
-* 🌐 Portfolio: [https://sidlabs.shop](https://sidlabs.shop)
-* 📷 Instagram: [https://instagram.com/siddhaartha_bs](https://instagram.com/siddhaartha_bs)
-* 🐦 X: [https://x.com/sid_logs](https://x.com/sid_logs)
-
----
-
+**Links**
+LinkedIn → [https://www.linkedin.com/in/siddhaartha-bs-041063364/](https://www.linkedin.com/in/siddhaartha-bs-041063364/)
+Portfolio → [https://sidlabs.shop](https://sidlabs.shop)
+GitHub → [https://github.com/SIDDHAARTHAA](https://github.com/SIDDHAARTHAA)
+X → [https://x.com/sid_logs](https://x.com/sid_logs)
