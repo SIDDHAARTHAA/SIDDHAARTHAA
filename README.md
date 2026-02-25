@@ -1,7 +1,7 @@
 # Siddhaartha
 
 CS @ IIIT Dharwad  
-Full-Stack Engineer — Backend, Cloud, Infrastructure  
+Backend, Cloud, Infrastructure  
 
 I build and run real systems.  
 Clean architecture, scalable backends, production deployments.  
